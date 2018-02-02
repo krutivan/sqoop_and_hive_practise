@@ -1,0 +1,1 @@
+# sqoop_and_hive_practise
